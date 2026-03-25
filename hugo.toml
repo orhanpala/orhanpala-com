@@ -1,0 +1,56 @@
+baseURL = 'https://orhanpala.com/'
+languageCode = 'tr-tr'
+title = 'Orhan Pala'
+theme = 'PaperMod'
+
+[params]
+    env = 'production'
+    title = 'Orhan Pala'
+    description = 'Bilgisayar Mühendisliği Öğrencisi & Siber Güvenlik Araştırmacısı'
+    keywords = ['Cybersecurity', 'Python', 'AI', 'Software Engineering']
+    author = 'Orhan Pala'
+    
+    # Ana Sayfa Profil Ayarları
+    [params.profileMode]
+        enabled = true
+        title = 'Orhan Pala'
+        subtitle = 'Munzur Üniversitesi Bilgisayar Mühendisliği | Siber Güvenlik Meraklısı | PALAİ & Resumind Geliştiricisi'
+        imageUrl = 'https://github.com/orhanpala.png' # GitHub profil resmini otomatik çeker
+        imageTitle = 'Orhan Pala'
+        imageWidth = 120
+        imageHeight = 120
+        
+        [[params.profileMode.buttons]]
+            name = 'Projelerim'
+            url = '/projects'
+        [[params.profileMode.buttons]]
+            name = 'Blog'
+            url = '/posts'
+
+    # Sosyal Medya Linkleri
+    [[params.socialIcons]]
+        name = 'github'
+        url = 'https://github.com/orhanpala' # Burayı kendi kullanıcı adınla güncelle
+    [[params.socialIcons]]
+        name = 'linkedin'
+        url = 'https://linkedin.com/in/orhanpala' # Burayı kendi kullanıcı adınla güncelle
+    [[params.socialIcons]]
+        name = 'email'
+        url = 'mailto:iletisim@orhanpala.com'
+
+[menu]
+    [[menu.main]]
+        identifier = 'posts'
+        name = 'Blog'
+        url = '/posts'
+        weight = 10
+    [[menu.main]]
+        identifier = 'projects'
+        name = 'Projeler'
+        url = '/projects'
+        weight = 20
+    [[menu.main]]
+        identifier = 'about'
+        name = 'Hakkımda'
+        url = '/about'
+        weight = 30

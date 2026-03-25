@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Orhan Pala</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Orhan Pala</description>
+    <generator>Hugo</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Thu, 26 Mar 2026 01:05:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Thu, 26 Mar 2026 01:05:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gemini</title>
+      <link>http://localhost:1313/tags/gemini/</link>
+      <pubDate>Thu, 26 Mar 2026 01:05:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/gemini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Thu, 26 Mar 2026 01:05:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Genel</title>
+      <link>http://localhost:1313/tags/genel/</link>
+      <pubDate>Thu, 26 Mar 2026 01:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/genel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kariyer</title>
+      <link>http://localhost:1313/tags/kariyer/</link>
+      <pubDate>Thu, 26 Mar 2026 01:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/tags/kariyer/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-baseURL = 'https://orhanpala-com.vercel.app/'
+baseURL = '/'
 languageCode = 'tr-tr'
 title = 'Orhan Pala'
 theme = 'PaperMod'
